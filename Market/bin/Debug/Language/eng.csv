@@ -1,0 +1,93 @@
+Add|Add
+Amount|Amount
+Audit bills|Audit bills
+Audit orders|Audit orders
+Barcode|Barcode
+Cash desk|Cash desk
+Cash desk ID|Cash desk ID
+Change|Change
+Change password|Change password
+Confirm|Confirm
+Confirm password|Confirm password
+Create article|Create article
+Date|Date
+Date time|Date and time
+Delete|Delete
+Delete employee|Delete employee
+Deliverer|Deliverer
+Deliverer ID|Deliverer ID
+Deliverer name|Deliverer name
+Employee ID|Employee ID
+Employee name|Employee name
+ID|ID
+Name|Name
+New password|New password
+Old password|Old password
+Password|Password
+Price|Price
+Price total|Price total
+Price x1|Price x1
+Refresh|Refresh
+Save|Save
+Show audit|Show audit
+Show bill|Show bill
+Surname|Surname
+Total|Total
+Update|Update
+Update article|Update article
+Update employee|Update employee
+User ID|User ID
+Username|Username
+From|From
+To|To
+All|All
+ID person|ID
+Employee username|Employee username
+Employee|Employee
+Yes|Yes
+No|No
+Add employee|Add employee
+Employed|Employed
+Login|Login
+Admin|Admin
+Theme|Theme
+English|English
+Serbian|Serbian
+Dark|Dark
+Light|Light
+Language|Language
+Work with bills|Work with bills
+Audit login|Audit login
+Create bill|Create bill
+Employees|Employees
+Articles|Articles
+Work with orders|Work with orders
+Work with articles|Work with articles
+Admin application|Admin application
+Create order|Create order
+Create employee|Create employee
+Error|Error
+Mesage for login|Not valid username or password
+Field|Field
+A1|must be pozitive nubmer!
+is not a valid field!|is not a valid field!
+No articles on bill!|No articles on bill!
+Bill is empty!|Bill is empty!
+Bill printed!|Bill printed!
+Bill did not print!|Bill did not print!
+No articles on order!|No articles on order!
+Order is empty!|Order is empty!
+Order printed!|Order printed!
+Order did not print!|Order did not print!
+Added|Added
+Barcode is used!|Barcode is used!
+Updated|Updated
+Username used already|Username used already!
+ID used already|ID is used!
+Password is not same|Password is not same!
+Changed|Changed!
+Normal|Normal
+Emp app|Employee application
+Settings|Settings
+Deleted|Deleted
+Not deleted|Didn't delete!

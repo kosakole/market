@@ -1,0 +1,94 @@
+Add|Dodaj
+Amount|Količina
+Audit bills|Pregled računa
+Audit orders|Pregled narudžbi
+Barcode|Barkod
+Cash desk|Kasa
+Cash desk ID|Kasa ID
+Change|Promjeni
+Change password|Promjeni šifru
+Confirm|Potvrdi
+Confirm password|Potvrdi šifru
+Create article|Kreiraj artikl
+Date|Datum
+Date time|Datum i vrijeme
+Delete|Obriši
+Delete employee|Obriši zaposlenog
+Deliverer|Dostavljač
+Deliverer ID|Dostavljač ID
+Deliverer name|Naziv dostavljača
+Employee ID|JMBG zaposlenog
+Employee name|Ime zaposlenog
+ID|ID
+Name|Ime
+New password|Nova šifra
+Old password|Stara šifra
+Password|Šifra
+Price|Cjena
+Price total|Ukupna cjena
+Price x1|Cjena x1
+Refresh|Osvježi
+Save|Sačuvaj
+Show audit|Pregled narudžbe
+Show bill|Prikaz računa
+Surname|Prezime
+Total|Total
+Update|Ažuriraj
+Update article|Ažuriraj artikl
+Update employee|Ažuriraj zaposlenog
+User ID|JMBG zaposlenog
+Username|Korisničko ime
+From|Od
+To|Do
+All|Svi
+ID person|JMBG
+Employee username|Korisničko ime zaposlenog
+Employee|Zaposleni
+Yes|Da
+No|Ne
+Add employee|Dodaj zaposlenog
+Employed|Zaposlen
+Login|Prijavi se
+Admin|Administrator
+Theme|Tema
+English|Engleski
+Serbian|Srpski
+Dark|Tamna
+Light|Svjetla
+Language|Jezik
+Work with bills|Rad sa računima
+Audit articles|Pregled arikala
+Create bill|Kreiraj račun
+Employees|Zaposleni
+Articles|Artikli
+Work with orders|Rad sa porudžbinama
+Work with articles|Rad sa artiklama
+Audit login|Pregled prijava
+Admin application|Administratorska aplikacija
+Create order|Kreiraj narudžbu
+Create employee|Kreiraj zaposlenog
+Error|Greška
+Mesage for login|Neispravno korisničko ime ili lozinka
+Field|Polje
+A1|mora biti pozitivan broj!
+is not a valid field!|nije validno polje!
+No articles on bill!|Nema artikala na računu
+Bill is empty!|Račun je prazan!
+Bill printed!|Račun je odštampan!
+Bill did not print!|Račun nije odštampan!
+No articles on order!|Nema artikla za narudžbu!
+Order is empty!|Narudžba je prazna!
+Order printed!|Naručeno!
+Order did not print!|Neuspješna narudžba!
+Added|Dodan
+Barcode is used!|Barkod već postoji
+Updated|Ažurirano
+Username used already|Korisničko ime je već zauzeto!
+ID used already|Osoba sa unesenim JMBG već postoji!
+Password is not same|Šifre nisu iste!
+Changed|Promjenjeno!
+Normal|Obična
+Emp app|Aplikacija za zaposlenog
+Settings|Podešavanja
+Deleted|Obrisan!
+Not deleted|Nije obrisan!
